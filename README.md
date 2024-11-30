@@ -1,9 +1,10 @@
 <div align="center">
   <a href="https://github.com/zboMa/github-readme-stats">
-    <img height="170px"  align="center" src="https://github-readme-stats.vercel.app/api?username=zboMa&show_icons=true&theme=ambient_gradient" />
+    <img height="120px"  align="center" src="https://github-readme-stats.vercel.app/api?username=zboMa&show_icons=true&theme=ambient_gradient" />
   </a>
+  <span></span>
   <a href="https://github.com/zboMa/convoychat">
-    <img height="170px"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zboMa&layout=compact&langs_count=10&theme=dracula" />
+    <img height="120px"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zboMa&layout=compact&langs_count=10&theme=ambient_gradient" />
   </a>
 </div>
 
